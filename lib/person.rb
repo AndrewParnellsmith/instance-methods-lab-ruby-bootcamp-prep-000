@@ -5,3 +5,4 @@ end
 def walk
   puts "The Person is waling"
 end
+end
